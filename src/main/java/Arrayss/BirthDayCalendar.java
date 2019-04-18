@@ -1,4 +1,4 @@
-package com.kamesh.KameshPractice;
+package Arrayss;
 
 import java.util.Arrays;
 import java.util.Collections;

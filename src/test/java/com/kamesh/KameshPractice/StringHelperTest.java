@@ -4,6 +4,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+import Arrayss.StringHelper;
+
 public class StringHelperTest {
 
 	@Test

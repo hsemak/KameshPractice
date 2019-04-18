@@ -1,4 +1,4 @@
-package com.kamesh.KameshPractice;
+package Arrayss;
 
 public class DiagnoalDifference {
     public int n=3;

@@ -1,4 +1,4 @@
-package com.kamesh.KameshPractice;
+package Arrayss;
 
 public class RepeatedSign {
     public static void main(String [] args ) {
